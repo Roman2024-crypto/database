@@ -5,7 +5,7 @@
 
 Легенда
 
-Заказчик передал вам https://github.com/netology-code/sdb-homeworks/blob/main/resources/hw-12-1.xlsx, в котором сформирован отчёт.
+Заказчик передал вам [файл в формате Excel](https://github.com/netology-code/sdb-homeworks/blob/main/resources/hw-12-1.xlsx), в котором сформирован отчёт.
 
 На основе этого отчёта нужно выполнить следующие задания.
 
